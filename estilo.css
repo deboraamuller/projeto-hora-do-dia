@@ -1,0 +1,27 @@
+/*Aqui colocamos os estilos do nosso site.Este é um arquivo CSS externo, separado do HTML.*/
+
+body{
+    background: rgb(97, 97, 240);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center; /*Centraliza*/
+}
+section{
+    background: white;
+    border-radius: 10px; /*Para bordas arredondadas*/
+    padding: 15px; /*Para o espaçamento dentro da borda*/
+    width: 500px; /*Largura*/
+    margin: auto; /*Centraliza*/
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445); /*Insere uma sombra*/
+}
+div{
+    text-align: center;
+    padding: 8px; /*Espaçamento*/
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic; /*Deixa em itálico*/
+}
